@@ -14,6 +14,7 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+<<<<<<< HEAD
 
     <dependency>
       <groupId>com.google.guava</groupId>
@@ -33,5 +34,7 @@
       <version>2.0.16</version>
     </dependency>
     
+=======
+>>>>>>> 25cfcccaccca1fe17c7abc0c72be14ccb3c42c99
   </dependencies>
 </project>
